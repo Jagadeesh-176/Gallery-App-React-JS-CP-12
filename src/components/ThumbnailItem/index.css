@@ -1,0 +1,17 @@
+/* Write your code here. */
+.button {
+  margin: 2px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.active-class {
+  margin: 2px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  opacity: 20;
+}
