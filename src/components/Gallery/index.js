@@ -72,7 +72,7 @@ const imagesList = [
     thumbnailAltText: 'nature river thumbnail',
   },
 ]
-
+//write your code here...
 // Write your code here.
 class Gallery extends Component {
   state = {
